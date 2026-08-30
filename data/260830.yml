@@ -1,0 +1,71 @@
+about:
+  description: Run any process, on your machine or in an AI agent's environment, as if it were a pod in your Kubernetes cluster: real env vars, DNS, network, traffic.
+  license: MIT
+  homepage: https://metalbear.com/mirrord
+  head: 951abf8
+  archived: false
+  latestVersion: 3.251.0
+  collectedAt: 2026-08-30T05:19:30Z
+timeline:
+  created: 2022-02-01
+  lastCommit: 2026-08-28
+  lastRelease: 2026-08-25
+popularity:
+  star: 5281
+  watcher: 21
+  fork: 210
+  release: 438
+  contributor: 66
+  pullRequest: 732
+  issue: 1223
+language:
+  Rust: 6252302
+  TypeScript: 404251
+  Go: 85223
+  Shell: 40735
+  JavaScript: 30506
+  Python: 23303
+  Dockerfile: 18265
+  C: 16100
+  PowerShell: 9026
+  CSS: 7622
+  HCL: 4596
+  Nix: 3695
+  C++: 2215
+  HTML: 1661
+  Go Template: 785
+  Jinja: 395
+totalLine: 6900680
+recent:
+  last30d:
+    since: 2026-07-31
+    release: 9
+    mergedPR: 95
+    openPR: 19
+    closedIssue: 3
+    openIssue: 1
+    commit: 190
+  last90d:
+    since: 2026-06-01
+    release: 41
+    mergedPR: 349
+    openPR: 21
+    closedIssue: 6
+    openIssue: 2
+    commit: 443
+  last180d:
+    since: 2026-03-03
+    release: 70
+    mergedPR: 580
+    openPR: 21
+    closedIssue: 15
+    openIssue: 4
+    commit: 663
+  last360d:
+    since: 2025-09-04
+    release: 100
+    mergedPR: 907
+    openPR: 21
+    closedIssue: 49
+    openIssue: 7
+    commit: 971
