@@ -1,25 +1,27 @@
 about:
-  description: Run any process, on your machine or in an AI agent's environment, as if it were a pod in your Kubernetes cluster: real env vars, DNS, network, traffic.
+  description:
+  |
+    Run any process, on your machine or in an AI agent's environment, as if it were a pod in your Kubernetes cluster: real env vars, DNS, network, traffic.
   license: MIT
   homepage: https://metalbear.com/mirrord
-  head: 87f8dea
+  head: c340405
   archived: false
   latestVersion: 3.254.0
-  collectedAt: 2026-09-04T04:25:39Z
+  collectedAt: 2026-09-04T19:30:45Z
 timeline:
   created: 2022-02-01
-  lastCommit: 2026-09-03
+  lastCommit: 2026-09-04
   lastRelease: 2026-09-03
 popularity:
-  star: 5296
+  star: 5300
   watcher: 21
   fork: 213
   release: 443
   contributor: 66
-  pullRequest: 739
+  pullRequest: 3411
   issue: 1223
 language:
-  Rust: 6847930
+  Rust: 6857585
   TypeScript: 405577
   Go: 90592
   Shell: 44425
@@ -35,37 +37,63 @@ language:
   HTML: 1661
   Go Template: 785
   Jinja: 395
-totalLine: 7508649
+totalBytes: 7518304
 recent:
   last30d:
     since: 2026-08-05
     release: 12
-    mergedPR: 102
-    openPR: 24
+    mergedPR: 103
+    openPR: 25
     closedIssue: 3
     openIssue: 0
-    commit: 207
+    commit: 217
+  last60d:
+    since: 2026-07-06
+    release: 27
+    mergedPR: 247
+    openPR: 27
+    closedIssue: 6
+    openIssue: 1
+    commit: 416
   last90d:
     since: 2026-06-06
     release: 43
-    mergedPR: 362
+    mergedPR: 364
     openPR: 27
     closedIssue: 7
     openIssue: 1
-    commit: 498
+    commit: 523
   last180d:
     since: 2026-03-08
     release: 72
-    mergedPR: 596
+    mergedPR: 598
     openPR: 27
     closedIssue: 16
     openIssue: 3
-    commit: 729
+    commit: 754
   last360d:
     since: 2025-09-09
     release: 100
-    mergedPR: 934
+    mergedPR: 936
     openPR: 27
     closedIssue: 50
     openIssue: 6
-    commit: 1041
+    commit: 1066
+  last720d:
+    since: 2024-09-14
+    release: 100
+    mergedPR: 1436
+    openPR: 27
+    closedIssue: 270
+    openIssue: 40
+    commit: 1761
+total:
+  release: 443
+  mergedPR: 2671
+  openPR: 27
+  closedIssue: 1171
+  openIssue: 52
+  commit: 3353
+---
+---
+
