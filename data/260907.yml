@@ -2,24 +2,24 @@ about:
   description: "Run any process, on your machine or in an AI agent's environment, as if it were a pod in your Kubernetes cluster: real env vars, DNS, network, traffic."
   license: MIT
   homepage: https://metalbear.com/mirrord
-  head: c340405
+  head: 71e3c48
   archived: false
   latestVersion: "3.254.0"
-  collectedAt: 2026-09-07T04:05:39Z
+  collectedAt: 2026-09-07T20:04:35Z
 timeline:
   created: 2022-02-01
-  lastCommit: 2026-09-04
+  lastCommit: 2026-09-07
   lastRelease: 2026-09-03
 popularity:
   star: 5323
   watcher: 22
-  fork: 214
+  fork: 215
   release: 443
   contributor: 66
-  pullRequest: 3415
+  pullRequest: 3419
   issue: 1223
 language:
-  Rust: 6857585
+  Rust: 6865239
   TypeScript: 405577
   Go: 90592
   Shell: 44425
@@ -35,71 +35,71 @@ language:
   HTML: 1661
   Go Template: 785
   Jinja: 395
-totalBytes: 7518304
+totalBytes: 7525958
 recent:
   last30d:
     since: 2026-08-08
     release: 11
-    mergedPR: 94
-    openPR: 29
+    mergedPR: 95
+    openPR: 31
     closedIssue: 3
     openIssue: 0
-    commit: 173
+    commit: 174
   last60d:
     since: 2026-07-09
     release: 25
-    mergedPR: 217
-    openPR: 31
+    mergedPR: 218
+    openPR: 33
     closedIssue: 6
     openIssue: 1
-    commit: 374
+    commit: 375
   last90d:
     since: 2026-06-09
     release: 42
-    mergedPR: 356
-    openPR: 31
+    mergedPR: 357
+    openPR: 33
     closedIssue: 7
     openIssue: 1
-    commit: 503
+    commit: 504
   last180d:
     since: 2026-03-11
     release: 72
-    mergedPR: 588
-    openPR: 31
+    mergedPR: 589
+    openPR: 33
     closedIssue: 16
     openIssue: 3
-    commit: 742
+    commit: 743
   last360d:
     since: 2025-09-12
     release: 100
-    mergedPR: 932
-    openPR: 31
+    mergedPR: 933
+    openPR: 33
     closedIssue: 49
     openIssue: 6
-    commit: 1057
+    commit: 1058
   last720d:
     since: 2024-09-17
     release: 100
-    mergedPR: 1433
-    openPR: 31
+    mergedPR: 1434
+    openPR: 33
     closedIssue: 268
     openIssue: 40
-    commit: 1761
+    commit: 1766
 total:
   release: 443
-  mergedPR: 2671
-  openPR: 31
-  closedIssue: 1171
-  openIssue: 52
-  commit: 3353
+  mergedPR: 2672
+  openPR: 33
+  closedIssue: 1172
+  openIssue: 51
+  commit: 3358
 ---
 path: /home/runner/.x-repo/github.com/metalbear-co/mirrord
-collectedAt: 2026-09-07T04:05:46Z
+collectedAt: 2026-09-07T20:04:43Z
 loc:
   Rust:
-    code: 145319
+    code: 145461
     comments: 4492
-    blanks: 20395
+    blanks: 20413
     files: 735
   Tsx:
     code: 9043
@@ -193,24 +193,24 @@ loc:
     files: 2
   Markdown:
     code: 0
-    comments: 7713
+    comments: 7714
     blanks: 4337
-    files: 36
+    files: 37
   Text:
     code: 0
     comments: 3
     blanks: 0
     files: 1
 total:
-  code: 182147
-  comments: 33209
-  blanks: 32961
-  files: 1119
+  code: 182289
+  comments: 33249
+  blanks: 32979
+  files: 1120
 ---
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:05:47+00:00
+  collectedAt: 2026-09-07T20:04:44+00:00
   platform:
     darwin/arm64:
       name:  null
