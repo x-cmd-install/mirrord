@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 76489632,
       "digest": "sha256:6127f22f135b66e8a8c77b55fb9f3d0cdf0f78ff5e938fbadf874fdbc78a32c4",
-      "download_count": 1818,
+      "download_count": 1842,
       "created_at": "2026-09-03T05:44:51Z",
       "updated_at": "2026-09-03T05:44:55Z",
       "browser_download_url": "https://github.com/metalbear-co/mirrord/releases/download/3.254.0/mirrord_linux_aarch64"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 78698064,
       "digest": "sha256:82d6d2ff9dc70d01825de47ec55c512047ee2cbddf24e2df429c238614157689",
-      "download_count": 5051,
+      "download_count": 5112,
       "created_at": "2026-09-03T05:44:51Z",
       "updated_at": "2026-09-03T05:44:55Z",
       "browser_download_url": "https://github.com/metalbear-co/mirrord/releases/download/3.254.0/mirrord_linux_x86_64"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 28305575,
       "digest": "sha256:a8e9a23132375ed8573ecf9b802c0148189c4a2c8d638cb327554737e20c2367",
-      "download_count": 1856,
+      "download_count": 1882,
       "created_at": "2026-09-03T05:44:51Z",
       "updated_at": "2026-09-03T05:44:54Z",
       "browser_download_url": "https://github.com/metalbear-co/mirrord/releases/download/3.254.0/mirrord_linux_x86_64.zip"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 321100400,
       "digest": "sha256:d386fcf81dba46d890d87ad53f2b9a5ef6045d6ed74d3df5f750c14eb08093fc",
-      "download_count": 7275,
+      "download_count": 7357,
       "created_at": "2026-09-03T05:44:51Z",
       "updated_at": "2026-09-03T05:45:02Z",
       "browser_download_url": "https://github.com/metalbear-co/mirrord/releases/download/3.254.0/mirrord_mac_universal"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 125263306,
       "digest": "sha256:4ae8a73f9cb3af5c68ab2040aed5a92e8148e0973ee7f407493d42df0f9ec18f",
-      "download_count": 2221,
+      "download_count": 2250,
       "created_at": "2026-09-03T05:44:51Z",
       "updated_at": "2026-09-03T05:44:56Z",
       "browser_download_url": "https://github.com/metalbear-co/mirrord/releases/download/3.254.0/mirrord_mac_universal.zip"
