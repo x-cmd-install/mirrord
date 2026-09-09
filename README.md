@@ -4,10 +4,10 @@ Run any process, on your machine or in an AI agent's environment, as if it were 
 
 - **Upstream**: <https://github.com/metalbear-co/mirrord>
 - **Homepage**: <https://metalbear.com/mirrord>
-- **Latest release**: `3.254.0` (2026-09-03)
-- **Last commit**: 2026-09-08
+- **Latest release**: `3.255.0` (2026-09-09)
+- **Last commit**: 2026-09-09
 - **License**: MIT
-- **Stars**: 5323 · **Forks**: 215 · **Open issues**: 1223 · **Contributors**: 66
+- **Stars**: 5323 · **Forks**: 215 · **Open issues**: 1224 · **Contributors**: 66
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/mirrord> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T04:14:35Z._
+_Last regenerated: 2026-09-09T18:29:35Z._
