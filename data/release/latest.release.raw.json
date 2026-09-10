@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 16520520,
       "digest": "sha256:b0458ce72cd19cf4d99fdb2b2e02c915aca753526348a78c8b3017482fbc2fa8",
-      "download_count": 1,
+      "download_count": 3,
       "created_at": "2026-09-10T01:17:46Z",
       "updated_at": "2026-09-10T01:17:47Z",
       "browser_download_url": "https://github.com/metalbear-co/mirrord/releases/download/3.256.0/libmirrord_layer_linux_aarch64.so"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 11067200,
       "digest": "sha256:009da41efed013ee88c80b063c2b84cf841b937c7f06a2dd89a15126c33a05d0",
-      "download_count": 1,
+      "download_count": 3,
       "created_at": "2026-09-10T01:17:46Z",
       "updated_at": "2026-09-10T01:17:47Z",
       "browser_download_url": "https://github.com/metalbear-co/mirrord/releases/download/3.256.0/libmirrord_layer_linux_x86_64.so"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 44239360,
       "digest": "sha256:91a4cc640738fd4693390b7b3456456e6ed4683cbf5803376423a18e58083927",
-      "download_count": 1,
+      "download_count": 3,
       "created_at": "2026-09-10T01:17:46Z",
       "updated_at": "2026-09-10T01:17:48Z",
       "browser_download_url": "https://github.com/metalbear-co/mirrord/releases/download/3.256.0/libmirrord_layer_mac_universal.dylib"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 92356384,
       "digest": "sha256:390112f5263daec2e2d3696efb47a42afcaf8aef4daf8820d54816bed62dce7a",
-      "download_count": 1,
+      "download_count": 5,
       "created_at": "2026-09-10T01:17:46Z",
       "updated_at": "2026-09-10T01:17:50Z",
       "browser_download_url": "https://github.com/metalbear-co/mirrord/releases/download/3.256.0/mirrord.exe"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 64,
       "digest": "sha256:5bde4348c3ff2030adbf28269349faf785ef67b478561eded16cea739026ff58",
-      "download_count": 0,
+      "download_count": 2,
       "created_at": "2026-09-10T01:17:46Z",
       "updated_at": "2026-09-10T01:17:46Z",
       "browser_download_url": "https://github.com/metalbear-co/mirrord/releases/download/3.256.0/mirrord.exe.sha256"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 27410432,
       "digest": "sha256:8803c64d6ce5630be7e483b3a8f86694e72425763af91362578d82b3cb61828f",
-      "download_count": 1,
+      "download_count": 3,
       "created_at": "2026-09-10T01:17:46Z",
       "updated_at": "2026-09-10T01:17:47Z",
       "browser_download_url": "https://github.com/metalbear-co/mirrord/releases/download/3.256.0/mirrord.msi"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 64,
       "digest": "sha256:507b5581e6480ec85b7505e15aee01d9cee896a6c3f1446ae992504b3a4ce28e",
-      "download_count": 0,
+      "download_count": 2,
       "created_at": "2026-09-10T01:17:46Z",
       "updated_at": "2026-09-10T01:17:46Z",
       "browser_download_url": "https://github.com/metalbear-co/mirrord/releases/download/3.256.0/mirrord.msi.sha256"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 9104160,
       "digest": "sha256:5c67c49d7c0abb5d3f4797bf41583279305c324c382ab28ec83cf2b7e3e4fd5e",
-      "download_count": 1,
+      "download_count": 3,
       "created_at": "2026-09-10T01:17:46Z",
       "updated_at": "2026-09-10T01:17:46Z",
       "browser_download_url": "https://github.com/metalbear-co/mirrord/releases/download/3.256.0/mirrord_layer_win.dll"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 64,
       "digest": "sha256:ce8cdf689e602b7f06abf625f2e17d031ac6a8506d1f8386bebc5a5974bcd252",
-      "download_count": 0,
+      "download_count": 2,
       "created_at": "2026-09-10T01:17:46Z",
       "updated_at": "2026-09-10T01:17:46Z",
       "browser_download_url": "https://github.com/metalbear-co/mirrord/releases/download/3.256.0/mirrord_layer_win.dll.sha256"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 83637400,
       "digest": "sha256:1e86b052f2c087df1364dc1c8c7f4511dd478968ea2399f535265a24f98ef3fc",
-      "download_count": 1,
+      "download_count": 7,
       "created_at": "2026-09-10T01:17:46Z",
       "updated_at": "2026-09-10T01:17:49Z",
       "browser_download_url": "https://github.com/metalbear-co/mirrord/releases/download/3.256.0/mirrord_linux_aarch64"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 92,
       "digest": "sha256:5951121197fc7dde6f1b0a31b851824de833893c1524fc9e711c5790c8693de1",
-      "download_count": 2,
+      "download_count": 5,
       "created_at": "2026-09-10T01:17:46Z",
       "updated_at": "2026-09-10T01:17:46Z",
       "browser_download_url": "https://github.com/metalbear-co/mirrord/releases/download/3.256.0/mirrord_linux_aarch64.shasum256"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 29992849,
       "digest": "sha256:7a8cc690b900f01dc3725bb6b253833cf8e81371ba13bbaeb148d6699387efe8",
-      "download_count": 0,
+      "download_count": 5,
       "created_at": "2026-09-10T01:17:46Z",
       "updated_at": "2026-09-10T01:17:47Z",
       "browser_download_url": "https://github.com/metalbear-co/mirrord/releases/download/3.256.0/mirrord_linux_aarch64.zip"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 86525360,
       "digest": "sha256:9e972f9c6e237f5fe14ec47bd5dd578b33bf8d16f2235151be2cd8281d2b25de",
-      "download_count": 73,
+      "download_count": 433,
       "created_at": "2026-09-10T01:17:46Z",
       "updated_at": "2026-09-10T01:17:49Z",
       "browser_download_url": "https://github.com/metalbear-co/mirrord/releases/download/3.256.0/mirrord_linux_x86_64"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 91,
       "digest": "sha256:aa4c017101931043d1326d96d5c82512bedd9c9891823fe1bb6cebd828ce83ad",
-      "download_count": 2,
+      "download_count": 6,
       "created_at": "2026-09-10T01:17:46Z",
       "updated_at": "2026-09-10T01:17:46Z",
       "browser_download_url": "https://github.com/metalbear-co/mirrord/releases/download/3.256.0/mirrord_linux_x86_64.shasum256"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 31073276,
       "digest": "sha256:08bd9fd00f95ffe950ef8edc751a776b8194f3779baae8a859130c60015547cf",
-      "download_count": 35,
+      "download_count": 220,
       "created_at": "2026-09-10T01:17:46Z",
       "updated_at": "2026-09-10T01:17:48Z",
       "browser_download_url": "https://github.com/metalbear-co/mirrord/releases/download/3.256.0/mirrord_linux_x86_64.zip"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 341395664,
       "digest": "sha256:42713dc07e729f67c4c8339e21e3275c2aace5ba52322ec2fe65f036d665d79e",
-      "download_count": 34,
+      "download_count": 203,
       "created_at": "2026-09-10T01:17:45Z",
       "updated_at": "2026-09-10T01:17:56Z",
       "browser_download_url": "https://github.com/metalbear-co/mirrord/releases/download/3.256.0/mirrord_mac_universal"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 92,
       "digest": "sha256:c27bc19b414a97be888b582d540bf3be65167a74a7421d81677bfbe6f1e209ea",
-      "download_count": 2,
+      "download_count": 5,
       "created_at": "2026-09-10T01:17:45Z",
       "updated_at": "2026-09-10T01:17:46Z",
       "browser_download_url": "https://github.com/metalbear-co/mirrord/releases/download/3.256.0/mirrord_mac_universal.shasum256"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 131594908,
       "digest": "sha256:a01bfeb3063d726def8a98efde70ed01a9a3b4b826681d107ef0bf1e307bcb92",
-      "download_count": 52,
+      "download_count": 369,
       "created_at": "2026-09-10T01:17:45Z",
       "updated_at": "2026-09-10T01:17:51Z",
       "browser_download_url": "https://github.com/metalbear-co/mirrord/releases/download/3.256.0/mirrord_mac_universal.zip"
