@@ -12,6 +12,18 @@ Run any process, on your machine or in an AI agent's environment, as if it were 
 x install mirrord
 ```
 
+## Code insight
+
+Total: **183,187** lines of code across **865** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Rust | 147,375 | 4,522 | 20,663 | 737 |
+| Tsx | 9,254 | 234 | 899 | 67 |
+| Json | 6,810 | 0 | 1 | 27 |
+| Yaml | 6,386 | 2 | 1,446 | 9 |
+| TypeScript | 3,246 | 1,358 | 230 | 25 |
+
 ## Source
 
 - **Upstream**: <https://github.com/metalbear-co/mirrord>
@@ -23,6 +35,25 @@ x install mirrord
 - **Latest**: `3.256.0` (2026-09-10)
 - **Last commit**: 2026-09-09
 - **Assets in release**: 18
+
+## Popularity
+
+- **Stars**: 5,324 · **Forks**: 215 · **Open issues**: 1,224 · **Contributors**: 66
+
+## Totals (cumulative)
+
+- **Releases**: 445 · **Merged PRs**: 2687 · **Open PRs**: 30 · **Closed issues**: 1175 · **Open issues**: 49 · **Commits**: 3411
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 12 | 99 | 28 | 4 | 0 | 204 |
+| last60d | 2026-07-12 | 27 | 231 | 30 | 7 | 0 | 405 |
+| 90d | 2026-06-12 | 44 | 359 | 30 | 7 | 1 | 534 |
+| last180d | 2026-03-14 | 74 | 593 | 30 | 17 | 3 | 773 |
+| 360d | 2025-09-15 | 100 | 946 | 30 | 50 | 6 | 1088 |
+| last720d | 2024-09-20 | 100 | 1446 | 30 | 269 | 38 | 1814 |
 
 ## Release assets
 
@@ -47,33 +78,13 @@ x install mirrord
 | [mirrord_mac_universal.shasum256](https://github.com/metalbear-co/mirrord/releases/download/3.256.0/mirrord_mac_universal.shasum256) | 92 B | `other` |
 | [mirrord_mac_universal.zip](https://github.com/metalbear-co/mirrord/releases/download/3.256.0/mirrord_mac_universal.zip) | 125.5 MiB | `other` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 5,324 · **Forks**: 215 · **Open issues**: 1,224 · **Contributors**: 66
+Reported by **57** distros on [repology.org](https://repology.org/project/mirrord). **3** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
 
-## Totals (cumulative)
-
-- **Releases**: 445 · **Merged PRs**: 2687 · **Open PRs**: 28 · **Closed issues**: 1175 · **Open issues**: 49 · **Commits**: 3411
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 12 | 99 | 26 | 4 | 0 | 204 |
-| 90d | 2026-06-12 | 44 | 359 | 28 | 7 | 1 | 534 |
-| 360d | 2025-09-15 | 100 | 946 | 28 | 50 | 6 | 1088 |
-
-## Code size
-
-Total: **183,187** lines of code across **865** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Rust | 147,375 | 4,522 | 20,663 | 737 |
-| Tsx | 9,254 | 234 | 899 | 67 |
-| Json | 6,810 | 0 | 1 | 27 |
-| Yaml | 6,386 | 2 | 1,446 | 9 |
-| TypeScript | 3,246 | 1,358 | 230 | 25 |
+| Distro | Version | Status |
+|--------|---------|--------|
+| Nix unstable | `3.254.0` | ✅ latest |
 
 ## Improve this data
 
@@ -84,4 +95,4 @@ Install metadata for mirrord lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:07:56Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:21:00Z._
