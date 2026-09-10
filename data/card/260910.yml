@@ -7,7 +7,7 @@ about:
   latestVersion: "3.256.0"
   latestRelease: "3.256.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T16:07:34Z
+  collectedAt: 2026-09-10T21:20:45Z
 timeline:
   created: 2022-02-01
   lastCommit: 2026-09-09
@@ -20,7 +20,7 @@ popularity:
   fork: 215
   release: 445
   contributor: 66
-  pullRequest: 3433
+  pullRequest: 3435
   issue: 1224
 language:
   Rust: 6961649
@@ -45,7 +45,7 @@ recent:
     since: 2026-08-11
     release: 12
     mergedPR: 99
-    openPR: 26
+    openPR: 28
     closedIssue: 4
     openIssue: 0
     commit: 204
@@ -53,7 +53,7 @@ recent:
     since: 2026-07-12
     release: 27
     mergedPR: 231
-    openPR: 28
+    openPR: 30
     closedIssue: 7
     openIssue: 0
     commit: 405
@@ -61,7 +61,7 @@ recent:
     since: 2026-06-12
     release: 44
     mergedPR: 359
-    openPR: 28
+    openPR: 30
     closedIssue: 7
     openIssue: 1
     commit: 534
@@ -69,7 +69,7 @@ recent:
     since: 2026-03-14
     release: 74
     mergedPR: 593
-    openPR: 28
+    openPR: 30
     closedIssue: 17
     openIssue: 3
     commit: 773
@@ -77,7 +77,7 @@ recent:
     since: 2025-09-15
     release: 100
     mergedPR: 946
-    openPR: 28
+    openPR: 30
     closedIssue: 50
     openIssue: 6
     commit: 1088
@@ -85,20 +85,20 @@ recent:
     since: 2024-09-20
     release: 100
     mergedPR: 1446
-    openPR: 28
+    openPR: 30
     closedIssue: 269
     openIssue: 38
     commit: 1814
 total:
   release: 445
   mergedPR: 2687
-  openPR: 28
+  openPR: 30
   closedIssue: 1175
   openIssue: 49
   commit: 3411
 ---
 path: /home/runner/.x-repo/github.com/metalbear-co/mirrord
-collectedAt: 2026-09-10T16:07:47Z
+collectedAt: 2026-09-10T21:20:53Z
 loc:
   Rust:
     code: 147375
