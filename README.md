@@ -48,12 +48,12 @@ Total: **183,187** lines of code across **865** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 12 | 99 | 28 | 4 | 0 | 204 |
-| last60d | 2026-07-12 | 27 | 231 | 30 | 7 | 0 | 405 |
-| 90d | 2026-06-12 | 44 | 359 | 30 | 7 | 1 | 534 |
-| last180d | 2026-03-14 | 74 | 593 | 30 | 17 | 3 | 773 |
-| 360d | 2025-09-15 | 100 | 946 | 30 | 50 | 6 | 1088 |
-| last720d | 2024-09-20 | 100 | 1446 | 30 | 269 | 38 | 1814 |
+| 30d | 2026-08-12 | 12 | 96 | 28 | 4 | 0 | 204 |
+| last60d | 2026-07-13 | 27 | 221 | 30 | 7 | 0 | 405 |
+| 90d | 2026-06-13 | 44 | 359 | 30 | 7 | 1 | 534 |
+| last180d | 2026-03-15 | 74 | 593 | 30 | 17 | 3 | 773 |
+| 360d | 2025-09-16 | 100 | 943 | 30 | 49 | 6 | 1088 |
+| last720d | 2024-09-21 | 100 | 1446 | 30 | 268 | 38 | 1814 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for mirrord lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T22:38:44Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T04:11:12Z._
