@@ -14,7 +14,7 @@ x install mirrord
 
 ## Code insight
 
-Total: **183,187** lines of code across **865** files in the top 5 languages.
+Total: **183,189** lines of code across **865** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -33,27 +33,27 @@ Total: **183,187** lines of code across **865** files in the top 5 languages.
 ## Release
 
 - **Latest**: `3.256.0` (2026-09-10)
-- **Last commit**: 2026-09-09
+- **Last commit**: 2026-09-11
 - **Assets in release**: 18
 
 ## Popularity
 
-- **Stars**: 5,324 · **Forks**: 215 · **Open issues**: 1,224 · **Contributors**: 66
+- **Stars**: 5,327 · **Forks**: 215 · **Open issues**: 1,224 · **Contributors**: 66
 
 ## Totals (cumulative)
 
-- **Releases**: 445 · **Merged PRs**: 2687 · **Open PRs**: 30 · **Closed issues**: 1175 · **Open issues**: 49 · **Commits**: 3411
+- **Releases**: 445 · **Merged PRs**: 2688 · **Open PRs**: 30 · **Closed issues**: 1175 · **Open issues**: 49 · **Commits**: 3415
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 12 | 96 | 28 | 4 | 0 | 204 |
-| last60d | 2026-07-13 | 27 | 221 | 30 | 7 | 0 | 405 |
-| 90d | 2026-06-13 | 44 | 359 | 30 | 7 | 1 | 534 |
-| last180d | 2026-03-15 | 74 | 593 | 30 | 17 | 3 | 773 |
-| 360d | 2025-09-16 | 100 | 943 | 30 | 49 | 6 | 1088 |
-| last720d | 2024-09-21 | 100 | 1446 | 30 | 268 | 38 | 1814 |
+| 30d | 2026-08-12 | 12 | 97 | 28 | 4 | 0 | 207 |
+| last60d | 2026-07-13 | 27 | 222 | 30 | 7 | 0 | 408 |
+| 90d | 2026-06-13 | 44 | 360 | 30 | 7 | 1 | 537 |
+| last180d | 2026-03-15 | 74 | 594 | 30 | 17 | 3 | 776 |
+| 360d | 2025-09-16 | 100 | 944 | 30 | 49 | 6 | 1091 |
+| last720d | 2024-09-21 | 100 | 1447 | 30 | 268 | 38 | 1818 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for mirrord lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T04:11:12Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T20:49:29Z._
