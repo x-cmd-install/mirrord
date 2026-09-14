@@ -42,18 +42,18 @@ Total: **183,189** lines of code across **865** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 445 · **Merged PRs**: 2688 · **Open PRs**: 30 · **Closed issues**: 1175 · **Open issues**: 49 · **Commits**: 3415
+- **Releases**: 445 · **Merged PRs**: 2688 · **Open PRs**: 31 · **Closed issues**: 1175 · **Open issues**: 49 · **Commits**: 3415
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 11 | 91 | 28 | 3 | 0 | 207 |
-| last60d | 2026-07-15 | 25 | 217 | 28 | 7 | 0 | 408 |
-| 90d | 2026-06-15 | 42 | 352 | 30 | 7 | 1 | 537 |
-| last180d | 2026-03-17 | 74 | 590 | 30 | 17 | 3 | 776 |
-| 360d | 2025-09-18 | 100 | 939 | 30 | 49 | 6 | 1091 |
-| last720d | 2024-09-23 | 100 | 1444 | 30 | 267 | 38 | 1814 |
+| 30d | 2026-08-15 | 11 | 91 | 29 | 3 | 0 | 160 |
+| last60d | 2026-07-16 | 25 | 211 | 29 | 7 | 0 | 374 |
+| 90d | 2026-06-16 | 42 | 346 | 31 | 7 | 1 | 519 |
+| last180d | 2026-03-18 | 74 | 588 | 31 | 17 | 3 | 753 |
+| 360d | 2025-09-19 | 100 | 936 | 31 | 49 | 6 | 1078 |
+| last720d | 2024-09-24 | 100 | 1444 | 31 | 265 | 38 | 1813 |
 
 ## Release assets
 
@@ -78,14 +78,6 @@ Total: **183,189** lines of code across **865** files in the top 5 languages.
 | [mirrord_mac_universal.shasum256](https://github.com/metalbear-co/mirrord/releases/download/3.256.0/mirrord_mac_universal.shasum256) | 92 B | `other` |
 | [mirrord_mac_universal.zip](https://github.com/metalbear-co/mirrord/releases/download/3.256.0/mirrord_mac_universal.zip) | 125.5 MiB | `other` |
 
-## Distribution status
-
-Reported by **57** distros on [repology.org](https://repology.org/project/mirrord). **3** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `3.254.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for mirrord lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `mirrord` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -95,4 +87,4 @@ Install metadata for mirrord lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T04:22:09Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T04:29:07Z._
