@@ -4,7 +4,7 @@
 
 Run any process, on your machine or in an AI agent's environment, as if it were a pod in your Kubernetes cluster: real env vars, DNS, network, traffic.
 
-![mirrord](https://repo.x-cmd.io/mirrord.svg)
+[![x-cmd/install — mirrord Code Quality Monitoring Repo Card](https://repo.x-cmd.io/mirrord.svg)](https://x-cmd.com/install/mirrord)
 
 ## Install
 
@@ -14,15 +14,15 @@ x install mirrord
 
 ## Code insight
 
-Total: **184,808** lines of code across **867** files in the top 5 languages.
+Total: **186,399** lines of code across **877** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 148,879 | 4,534 | 20,886 | 739 |
-| Tsx | 9,254 | 234 | 899 | 67 |
-| Json | 6,885 | 0 | 1 | 27 |
-| Yaml | 6,386 | 2 | 1,446 | 9 |
-| TypeScript | 3,246 | 1,358 | 230 | 25 |
+| Rust | 149,354 | 4,535 | 20,964 | 740 |
+| Tsx | 9,648 | 244 | 931 | 69 |
+| Json | 6,890 | 0 | 1 | 27 |
+| Yaml | 6,390 | 2 | 1,446 | 9 |
+| TypeScript | 3,956 | 1,409 | 353 | 32 |
 
 ## Source
 
@@ -33,7 +33,7 @@ Total: **184,808** lines of code across **867** files in the top 5 languages.
 ## Release
 
 - **Latest**: `3.261.0` (2026-09-17)
-- **Last commit**: 2026-09-17
+- **Last commit**: 2026-09-18
 - **Assets in release**: 18
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **184,808** lines of code across **867** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 450 · **Merged PRs**: 2713 · **Open PRs**: 24 · **Closed issues**: 1175 · **Open issues**: 49 · **Commits**: 3497
+- **Releases**: 450 · **Merged PRs**: 2720 · **Open PRs**: 20 · **Closed issues**: 1175 · **Open issues**: 49 · **Commits**: 3530
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 14 | 100 | 23 | 2 | 0 | 204 |
-| last60d | 2026-07-20 | 29 | 222 | 23 | 6 | 0 | 419 |
-| 90d | 2026-06-20 | 44 | 356 | 24 | 7 | 1 | 564 |
-| last180d | 2026-03-22 | 78 | 604 | 24 | 17 | 3 | 798 |
-| 360d | 2025-09-23 | 100 | 957 | 24 | 48 | 6 | 1123 |
-| last720d | 2024-09-28 | 100 | 1466 | 24 | 261 | 37 | 1893 |
+| 30d | 2026-08-21 | 14 | 93 | 19 | 2 | 0 | 170 |
+| last60d | 2026-07-22 | 27 | 216 | 19 | 6 | 0 | 389 |
+| 90d | 2026-06-22 | 44 | 357 | 20 | 7 | 1 | 562 |
+| last180d | 2026-03-24 | 78 | 606 | 20 | 17 | 2 | 791 |
+| 360d | 2025-09-25 | 100 | 960 | 20 | 48 | 6 | 1133 |
+| last720d | 2024-09-30 | 100 | 1469 | 20 | 260 | 37 | 1925 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for mirrord lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:15:28Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T04:31:17Z._
