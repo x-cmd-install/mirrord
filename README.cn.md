@@ -4,7 +4,7 @@
 
 Run any process, on your machine or in an AI agent's environment, as if it were a pod in your Kubernetes cluster: real env vars, DNS, network, traffic.
 
-[![x-cmd/install — mirrord Code Quality Monitoring Repo Card](https://repo.x-cmd.io/mirrord.svg?lang=zh)](https://x-cmd.com/install/mirrord)
+[![x-cmd/install — mirrord Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/mirrord.svg?lang=zh)](https://x-cmd.com/install/mirrord)
 
 ## 安装
 
@@ -14,15 +14,15 @@ x install mirrord
 
 ## 代码洞察
 
-合计: **187,220** 行代码（覆盖前 5 种语言、共 **881** 个文件）。
+合计: **187,395** 行代码（覆盖前 5 种语言、共 **881** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 150,169 | 4,568 | 21,031 | 744 |
-| Tsx | 9,648 | 244 | 931 | 69 |
+| Rust | 150,278 | 4,568 | 21,034 | 744 |
+| Tsx | 9,700 | 244 | 933 | 69 |
 | Json | 6,890 | 0 | 1 | 27 |
 | Yaml | 6,390 | 2 | 1,446 | 9 |
-| TypeScript | 3,956 | 1,409 | 353 | 32 |
+| TypeScript | 3,970 | 1,406 | 353 | 32 |
 
 ## 源代码
 
@@ -33,27 +33,27 @@ x install mirrord
 ## 发布
 
 - **最新版本**: `3.262.0` (2026-09-20)
-- **最近提交**: 2026-09-21
+- **最近提交**: 2026-09-22
 - **Release 含资产**: 18 个
 
 ## 流行度
 
-- **Star**: 5,336 · **Fork**: 216 · **开放 issue**: 1,225 · **贡献者**: 66
+- **Star**: 5,336 · **Fork**: 217 · **开放 issue**: 1,225 · **贡献者**: 66
 
 ## 累计统计
 
-- **发布数**: 451 · **已合并 PR**: 2725 · **开放 PR**: 22 · **已关闭 issue**: 1175 · **开放 issue**: 50 · **提交数**: 3563
+- **发布数**: 451 · **已合并 PR**: 2731 · **开放 PR**: 23 · **已关闭 issue**: 1175 · **开放 issue**: 50 · **提交数**: 3589
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 14 | 96 | 21 | 2 | 1 | 192 |
-| last60d | 2026-07-24 | 26 | 213 | 21 | 6 | 1 | 411 |
-| 90d | 2026-06-24 | 43 | 351 | 22 | 7 | 2 | 584 |
-| last180d | 2026-03-26 | 79 | 595 | 22 | 17 | 3 | 813 |
-| 360d | 2025-09-27 | 100 | 964 | 22 | 48 | 7 | 1155 |
-| last720d | 2024-10-02 | 100 | 1472 | 22 | 258 | 38 | 1954 |
+| 30d | 2026-08-24 | 14 | 97 | 22 | 1 | 1 | 212 |
+| last60d | 2026-07-25 | 25 | 219 | 22 | 6 | 1 | 431 |
+| 90d | 2026-06-25 | 42 | 353 | 23 | 7 | 2 | 604 |
+| last180d | 2026-03-27 | 78 | 599 | 23 | 17 | 3 | 833 |
+| 360d | 2025-09-28 | 100 | 970 | 23 | 48 | 7 | 1175 |
+| last720d | 2024-10-03 | 100 | 1478 | 23 | 257 | 38 | 1979 |
 
 ## Release 资产
 
@@ -87,4 +87,4 @@ mirrord 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T04:25:21Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T04:21:46Z._
