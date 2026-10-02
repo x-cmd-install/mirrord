@@ -14,11 +14,11 @@ x install mirrord
 
 ## Code insight
 
-Total: **197,827** lines of code across **918** files in the top 5 languages.
+Total: **200,454** lines of code across **928** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 159,904 | 4,743 | 22,244 | 779 |
+| Rust | 162,424 | 4,779 | 22,574 | 789 |
 | Tsx | 9,756 | 244 | 935 | 69 |
 | Json | 7,420 | 0 | 1 | 28 |
 | Yaml | 6,390 | 2 | 1,446 | 9 |
@@ -33,27 +33,27 @@ Total: **197,827** lines of code across **918** files in the top 5 languages.
 ## Release
 
 - **Latest**: `3.267.0` (2026-09-30)
-- **Last commit**: 2026-09-30
+- **Last commit**: 2026-10-01
 - **Assets in release**: 18
 
 ## Popularity
 
-- **Stars**: 5,347 · **Forks**: 220 · **Open issues**: 1,225 · **Contributors**: 67
+- **Stars**: 5,353 · **Forks**: 220 · **Open issues**: 1,225 · **Contributors**: 68
 
 ## Totals (cumulative)
 
-- **Releases**: 456 · **Merged PRs**: 2767 · **Open PRs**: 28 · **Closed issues**: 1177 · **Open issues**: 48 · **Commits**: 3743
+- **Releases**: 456 · **Merged PRs**: 2774 · **Open PRs**: 26 · **Closed issues**: 1177 · **Open issues**: 48 · **Commits**: 3779
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 16 | 98 | 28 | 1 | 1 | 233 |
-| last60d | 2026-08-02 | 26 | 215 | 28 | 5 | 1 | 472 |
-| 90d | 2026-07-03 | 42 | 350 | 28 | 8 | 1 | 681 |
-| last180d | 2026-04-04 | 79 | 612 | 28 | 15 | 2 | 911 |
-| 360d | 2025-10-06 | 100 | 995 | 28 | 48 | 6 | 1278 |
-| last720d | 2024-10-11 | 100 | 1497 | 28 | 243 | 35 | 2120 |
+| 30d | 2026-09-02 | 15 | 98 | 26 | 1 | 1 | 259 |
+| last60d | 2026-08-03 | 25 | 216 | 26 | 5 | 1 | 498 |
+| 90d | 2026-07-04 | 41 | 356 | 26 | 8 | 1 | 707 |
+| last180d | 2026-04-05 | 79 | 618 | 26 | 15 | 2 | 937 |
+| 360d | 2025-10-07 | 100 | 1001 | 26 | 48 | 6 | 1304 |
+| last720d | 2024-10-12 | 100 | 1504 | 26 | 243 | 35 | 2154 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for mirrord lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261001.yml` · 2026-10-01T05:23:05Z._
+_Snapshot: `data/card/261002.yml` · 2026-10-02T05:10:46Z._
