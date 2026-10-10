@@ -14,13 +14,13 @@ x install mirrord
 
 ## Code insight
 
-Total: **217,367** lines of code across **964** files in the top 5 languages.
+Total: **220,332** lines of code across **973** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 178,795 | 5,194 | 24,475 | 823 |
+| Rust | 181,695 | 5,251 | 24,770 | 832 |
 | Tsx | 9,756 | 244 | 935 | 69 |
-| Json | 7,555 | 0 | 1 | 30 |
+| Json | 7,587 | 0 | 1 | 30 |
 | Yaml | 6,390 | 2 | 1,446 | 9 |
 | TypeScript | 4,073 | 1,406 | 359 | 33 |
 
@@ -33,27 +33,27 @@ Total: **217,367** lines of code across **964** files in the top 5 languages.
 ## Release
 
 - **Latest**: `3.271.0` (2026-10-07)
-- **Last commit**: 2026-10-08
+- **Last commit**: 2026-10-10
 - **Assets in release**: 18
 
 ## Popularity
 
-- **Stars**: 5,359 · **Forks**: 220 · **Open issues**: 1,226 · **Contributors**: 68
+- **Stars**: 5,362 · **Forks**: 220 · **Open issues**: 1,226 · **Contributors**: 68
 
 ## Totals (cumulative)
 
-- **Releases**: 460 · **Merged PRs**: 2809 · **Open PRs**: 26 · **Closed issues**: 1178 · **Open issues**: 48 · **Commits**: 3995
+- **Releases**: 460 · **Merged PRs**: 2817 · **Open PRs**: 25 · **Closed issues**: 1178 · **Open issues**: 48 · **Commits**: 4041
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-09 | 17 | 115 | 26 | 0 | 2 | 369 |
-| last60d | 2026-08-10 | 28 | 225 | 26 | 4 | 2 | 601 |
-| 90d | 2026-07-11 | 42 | 354 | 26 | 7 | 2 | 810 |
-| last180d | 2026-04-12 | 80 | 633 | 26 | 14 | 3 | 1073 |
-| 360d | 2025-10-14 | 100 | 1025 | 26 | 47 | 7 | 1441 |
-| last720d | 2024-10-19 | 100 | 1523 | 26 | 232 | 35 | 2352 |
+| 30d | 2026-09-10 | 16 | 120 | 23 | 0 | 2 | 0 |
+| last60d | 2026-08-11 | 27 | 227 | 25 | 4 | 2 | 0 |
+| 90d | 2026-07-12 | 42 | 361 | 25 | 7 | 2 | 0 |
+| last180d | 2026-04-13 | 80 | 639 | 25 | 14 | 2 | 0 |
+| 360d | 2025-10-15 | 100 | 1028 | 25 | 47 | 7 | 0 |
+| last720d | 2024-10-20 | 100 | 1531 | 25 | 232 | 35 | 2398 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for mirrord lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261009.yml` · 2026-10-09T05:41:34Z._
+_Snapshot: `data/card/261010.yml` · 2026-10-10T05:25:32Z._
