@@ -14,11 +14,11 @@ x install mirrord
 
 ## Code insight
 
-Total: **220,332** lines of code across **973** files in the top 5 languages.
+Total: **220,573** lines of code across **975** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 181,695 | 5,251 | 24,770 | 832 |
+| Rust | 181,896 | 5,257 | 24,808 | 834 |
 | Tsx | 9,756 | 244 | 935 | 69 |
 | Json | 7,587 | 0 | 1 | 30 |
 | Yaml | 6,390 | 2 | 1,446 | 9 |
@@ -42,18 +42,18 @@ Total: **220,332** lines of code across **973** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 460 · **Merged PRs**: 2817 · **Open PRs**: 25 · **Closed issues**: 1178 · **Open issues**: 48 · **Commits**: 4041
+- **Releases**: 460 · **Merged PRs**: 2818 · **Open PRs**: 25 · **Closed issues**: 1178 · **Open issues**: 48 · **Commits**: 4052
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-10 | 16 | 120 | 23 | 0 | 2 | 0 |
-| last60d | 2026-08-11 | 27 | 227 | 25 | 4 | 2 | 0 |
-| 90d | 2026-07-12 | 42 | 361 | 25 | 7 | 2 | 0 |
-| last180d | 2026-04-13 | 80 | 639 | 25 | 14 | 2 | 0 |
-| 360d | 2025-10-15 | 100 | 1028 | 25 | 47 | 7 | 0 |
-| last720d | 2024-10-20 | 100 | 1531 | 25 | 232 | 35 | 2398 |
+| 30d | 2026-09-11 | 15 | 120 | 23 | 0 | 2 | 351 |
+| last60d | 2026-08-12 | 27 | 225 | 25 | 4 | 2 | 592 |
+| 90d | 2026-07-13 | 42 | 352 | 25 | 7 | 2 | 813 |
+| last180d | 2026-04-14 | 80 | 635 | 25 | 14 | 2 | 1083 |
+| 360d | 2025-10-16 | 100 | 1026 | 25 | 46 | 7 | 1464 |
+| last720d | 2024-10-21 | 100 | 1532 | 25 | 232 | 35 | 2409 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for mirrord lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261010.yml` · 2026-10-10T05:25:32Z._
+_Snapshot: `data/card/261011.yml` · 2026-10-11T05:17:53Z._
