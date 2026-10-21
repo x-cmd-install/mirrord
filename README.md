@@ -14,11 +14,11 @@ x install mirrord
 
 ## Code insight
 
-Total: **231,571** lines of code across **1012** files in the top 5 languages.
+Total: **232,429** lines of code across **1015** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 191,850 | 5,499 | 25,985 | 869 |
+| Rust | 192,708 | 5,523 | 26,067 | 872 |
 | Tsx | 9,756 | 244 | 935 | 69 |
 | Json | 7,741 | 0 | 1 | 31 |
 | Yaml | 6,541 | 1,174 | 1,552 | 10 |
@@ -38,22 +38,22 @@ Total: **231,571** lines of code across **1012** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 5,375 · **Forks**: 221 · **Open issues**: 1,227 · **Contributors**: 69
+- **Stars**: 5,377 · **Forks**: 222 · **Open issues**: 1,227 · **Contributors**: 69
 
 ## Totals (cumulative)
 
-- **Releases**: 465 · **Merged PRs**: 2874 · **Open PRs**: 25 · **Closed issues**: 1227 · **Open issues**: 0 · **Commits**: 4348
+- **Releases**: 465 · **Merged PRs**: 2880 · **Open PRs**: 24 · **Closed issues**: 1227 · **Open issues**: 0 · **Commits**: 4388
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 15 | 140 | 24 | 2 | 0 | 470 |
-| last60d | 2026-08-21 | 29 | 246 | 25 | 5 | 0 | 742 |
-| 90d | 2026-07-22 | 42 | 369 | 25 | 9 | 0 | 959 |
-| last180d | 2026-04-23 | 80 | 667 | 25 | 15 | 0 | 1272 |
-| 360d | 2025-10-25 | 100 | 1067 | 25 | 50 | 0 | 1648 |
-| last720d | 2024-10-30 | 100 | 1571 | 25 | 262 | 0 | 2690 |
+| 30d | 2026-09-21 | 14 | 143 | 22 | 2 | 0 | 498 |
+| last60d | 2026-08-22 | 28 | 251 | 24 | 5 | 0 | 770 |
+| 90d | 2026-07-23 | 41 | 371 | 24 | 9 | 0 | 987 |
+| last180d | 2026-04-24 | 80 | 666 | 24 | 15 | 0 | 1300 |
+| 360d | 2025-10-26 | 100 | 1073 | 24 | 50 | 0 | 1676 |
+| last720d | 2024-10-31 | 100 | 1577 | 24 | 262 | 0 | 2725 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for mirrord lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T04:25:31Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T04:16:15Z._
