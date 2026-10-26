@@ -1,57 +1,15 @@
-- repo: wakemeops
-  subrepo: devops
+- repo: aur
+  srcname: mirrord
   binname: mirrord
   visiblename: mirrord
-  version: 3.260.0
-  origversion: 3.260.0-1~ops2deb
-  status: legacy
+  version: 3.106.0
+  origversion: 3.106.0-1
+  status: outdated
+  summary: Connect your local process and your cloud environment, and run local code in cloud conditions
   maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: mirrord
-  visiblename: mirrord
-  version: 3.259.0
-  origversion: 3.259.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: mirrord
-  visiblename: mirrord
-  version: 3.258.0
-  origversion: 3.258.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: mirrord
-  visiblename: mirrord
-  version: 3.257.0
-  origversion: 3.257.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: mirrord
-  visiblename: mirrord
-  version: 3.256.0
-  origversion: 3.256.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: mirrord
-  visiblename: mirrord
-  version: 3.255.0
-  origversion: 3.255.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
+    - fallback-mnt-aur@repology
+  licenses:
+    - MIT
 - repo: aur
   srcname: mirrord-bin
   binname: mirrord-bin
@@ -64,6 +22,13 @@
     - komex@aur
   licenses:
     - MIT
+- repo: chocolatey
+  binname: mirrord
+  visiblename: mirrord (Kubernetes dev tool)
+  version: 3.279.1
+  origversion: null
+  status: newest
+  summary: Run local code in the context of your Kubernetes environment.
 - repo: nix_stable_25_05
   srcname: mirrord
   visiblename: mirrord
@@ -73,25 +38,6 @@
   summary: Run local processes in the context of Kubernetes environment
   maintainers:
     - wentworth@outlook.com
-  licenses:
-    - MIT
-- repo: chocolatey
-  binname: mirrord
-  visiblename: mirrord (Kubernetes dev tool)
-  version: 3.275.0
-  origversion: null
-  status: outdated
-  summary: Run local code in the context of your Kubernetes environment.
-- repo: aur
-  srcname: mirrord
-  binname: mirrord
-  visiblename: mirrord
-  version: 3.106.0
-  origversion: 3.106.0-1
-  status: outdated
-  summary: Connect your local process and your cloud environment, and run local code in cloud conditions
-  maintainers:
-    - fallback-mnt-aur@repology
   licenses:
     - MIT
 - repo: nix_stable_25_11
@@ -131,9 +77,18 @@
   subrepo: devops
   binname: mirrord
   visiblename: mirrord
+  version: 3.279.1
+  origversion: 3.279.1-1~ops2deb
+  status: newest
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: mirrord
+  visiblename: mirrord
   version: 3.279.0
   origversion: 3.279.0-1~ops2deb
-  status: newest
+  status: legacy
   maintainers:
     - ops2deb@upciti.com
 - repo: wakemeops
@@ -295,6 +250,60 @@
   visiblename: mirrord
   version: 3.261.0
   origversion: 3.261.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: mirrord
+  visiblename: mirrord
+  version: 3.260.0
+  origversion: 3.260.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: mirrord
+  visiblename: mirrord
+  version: 3.259.0
+  origversion: 3.259.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: mirrord
+  visiblename: mirrord
+  version: 3.258.0
+  origversion: 3.258.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: mirrord
+  visiblename: mirrord
+  version: 3.257.0
+  origversion: 3.257.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: mirrord
+  visiblename: mirrord
+  version: 3.256.0
+  origversion: 3.256.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: mirrord
+  visiblename: mirrord
+  version: 3.255.0
+  origversion: 3.255.0-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
@@ -511,15 +520,6 @@
   visiblename: mirrord
   version: 3.231.0
   origversion: 3.231.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: mirrord
-  visiblename: mirrord
-  version: 3.230.0
-  origversion: 3.230.0-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
