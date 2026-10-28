@@ -1,3 +1,30 @@
+- repo: wakemeops
+  subrepo: devops
+  binname: mirrord
+  visiblename: mirrord
+  version: 3.262.0
+  origversion: 3.262.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: mirrord
+  visiblename: mirrord
+  version: 3.261.0
+  origversion: 3.261.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: mirrord
+  visiblename: mirrord
+  version: 3.277.0
+  origversion: 3.277.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
 - repo: aur
   srcname: mirrord
   binname: mirrord
@@ -27,7 +54,7 @@
   visiblename: mirrord (Kubernetes dev tool)
   version: 3.279.1
   origversion: null
-  status: newest
+  status: outdated
   summary: Run local code in the context of your Kubernetes environment.
 - repo: nix_stable_25_05
   srcname: mirrord
@@ -65,7 +92,7 @@
 - repo: nix_unstable
   srcname: mirrord
   visiblename: mirrord
-  version: 3.271.0
+  version: 3.277.0
   origversion: null
   status: outdated
   summary: Run local processes in the context of Kubernetes environment
@@ -77,9 +104,18 @@
   subrepo: devops
   binname: mirrord
   visiblename: mirrord
+  version: 3.280.0
+  origversion: 3.280.0-1~ops2deb
+  status: newest
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: mirrord
+  visiblename: mirrord
   version: 3.279.1
   origversion: 3.279.1-1~ops2deb
-  status: newest
+  status: legacy
   maintainers:
     - ops2deb@upciti.com
 - repo: wakemeops
@@ -97,15 +133,6 @@
   visiblename: mirrord
   version: 3.278.0
   origversion: 3.278.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: mirrord
-  visiblename: mirrord
-  version: 3.277.0
-  origversion: 3.277.0-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
@@ -232,24 +259,6 @@
   visiblename: mirrord
   version: 3.263.0
   origversion: 3.263.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: mirrord
-  visiblename: mirrord
-  version: 3.262.0
-  origversion: 3.262.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: mirrord
-  visiblename: mirrord
-  version: 3.261.0
-  origversion: 3.261.0-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
@@ -511,15 +520,6 @@
   visiblename: mirrord
   version: 3.232.0
   origversion: 3.232.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: mirrord
-  visiblename: mirrord
-  version: 3.231.0
-  origversion: 3.231.0-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
