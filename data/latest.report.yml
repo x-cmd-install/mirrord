@@ -2,12 +2,12 @@ about:
   description: "Run any process, on your machine or in an AI agent's environment, as if it were a pod in your Kubernetes cluster: real env vars, DNS, network, traffic."
   license: MIT
   homepage: https://metalbear.com/mirrord
-  head: 1cd28b2
+  head: 2236a0e
   archived: false
   latestVersion: "3.281.0"
   latestRelease: "3.281.0"
   latestPrerelease: ""
-  collectedAt: 2026-10-29T05:21:02Z
+  collectedAt: 2026-10-30T05:21:08Z
 timeline:
   created: 2022-02-01
   lastCommit: 2026-10-29
@@ -15,20 +15,20 @@ timeline:
   lastRelease: 2026-10-28
   lastPrerelease: 
 popularity:
-  star: 5390
+  star: 5393
   watcher: 21
   fork: 223
   release: 471
   contributor: 70
-  pullRequest: 3709
+  pullRequest: 3715
   issue: 1227
 language:
-  Rust: 9436178
+  Rust: 9596761
   TypeScript: 460779
   Go: 99486
   Shell: 47992
   C: 38689
-  Python: 31695
+  Python: 32334
   JavaScript: 31059
   PowerShell: 28001
   Dockerfile: 21285
@@ -39,72 +39,72 @@ language:
   HTML: 1661
   Go Template: 785
   Jinja: 395
-totalBytes: 10216444
+totalBytes: 10377666
 recent:
   last30d:
-    since: 2026-09-29
-    release: 17
-    mergedPR: 145
-    openPR: 20
+    since: 2026-09-30
+    release: 16
+    mergedPR: 140
+    openPR: 22
     closedIssue: 2
     openIssue: 0
-    commit: 500
+    commit: 519
   last60d:
-    since: 2026-08-30
+    since: 2026-08-31
     release: 33
-    mergedPR: 263
-    openPR: 20
+    mergedPR: 262
+    openPR: 22
     closedIssue: 4
     openIssue: 0
-    commit: 842
+    commit: 861
   last90d:
-    since: 2026-07-31
-    release: 42
-    mergedPR: 372
-    openPR: 20
+    since: 2026-08-01
+    release: 41
+    mergedPR: 375
+    openPR: 22
     closedIssue: 8
     openIssue: 0
-    commit: 1079
+    commit: 1098
   last180d:
-    since: 2026-05-02
+    since: 2026-05-03
     release: 79
-    mergedPR: 681
-    openPR: 20
+    mergedPR: 682
+    openPR: 22
     closedIssue: 13
     openIssue: 0
-    commit: 1420
+    commit: 1439
   last360d:
-    since: 2025-11-03
+    since: 2025-11-04
     release: 100
-    mergedPR: 1093
-    openPR: 20
-    closedIssue: 48
+    mergedPR: 1095
+    openPR: 22
+    closedIssue: 47
     openIssue: 0
-    commit: 1805
+    commit: 1824
   last720d:
-    since: 2024-11-08
+    since: 2024-11-09
     release: 100
-    mergedPR: 1604
-    openPR: 20
+    mergedPR: 1607
+    openPR: 22
     closedIssue: 252
     openIssue: 0
-    commit: 2947
+    commit: 2972
 total:
   release: 471
-  mergedPR: 2920
-  openPR: 20
+  mergedPR: 2923
+  openPR: 22
   closedIssue: 1226
   openIssue: 1
-  commit: 4619
+  commit: 4646
 ---
 path: /home/runner/.x-repo/github.com/metalbear-co/mirrord
-collectedAt: 2026-10-29T05:21:10Z
+collectedAt: 2026-10-30T05:21:45Z
 loc:
   Rust:
-    code: 196330
-    comments: 5612
-    blanks: 26446
-    files: 877
+    code: 199407
+    comments: 5719
+    blanks: 26799
+    files: 888
   Tsx:
     code: 9766
     comments: 244
@@ -116,10 +116,10 @@ loc:
     blanks: 1
     files: 31
   Yaml:
-    code: 6340
+    code: 6457
     comments: 1264
     blanks: 1501
-    files: 10
+    files: 17
   TypeScript:
     code: 4093
     comments: 1410
@@ -132,7 +132,7 @@ loc:
     files: 42
   Toml:
     code: 2902
-    comments: 81
+    comments: 82
     blanks: 332
     files: 85
   JavaScript:
@@ -151,10 +151,10 @@ loc:
     blanks: 193
     files: 17
   Python:
-    code: 706
+    code: 727
     comments: 72
-    blanks: 212
-    files: 20
+    blanks: 215
+    files: 21
   Svg:
     code: 579
     comments: 1
@@ -197,20 +197,20 @@ loc:
     files: 2
   Markdown:
     code: 0
-    comments: 22246
+    comments: 22251
     blanks: 11505
-    files: 191
+    files: 196
   Text:
     code: 0
     comments: 3
     blanks: 0
     files: 1
 total:
-  code: 244970
-  comments: 58499
-  blanks: 47960
-  files: 1459
+  code: 248185
+  comments: 59145
+  blanks: 48390
+  files: 1483
 ---
 
 ---
-{"id":427301295,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOGxaghM4ZeBmv","tag_name":"3.281.0","target_commitish":"2d4d00bfde3836e0b8b1adee8025762cdd13aaf6","name":"3.281.0","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-10-28T21:22:24Z","updated_at":"2026-10-28T23:28:39Z","published_at":"2026-10-28T23:28:24Z","assets":[{"id":686687447,"node_id":"RA_kwDOGxaghM4o7gTX","name":"libmirrord_layer_linux_aarch64.so","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":16689768,"digest":"sha256:ab594c594864d279b2bc3a8b88c5b91fe41d5edd08308b4fd6e4ad0f01b43d8f","download_count":2,"created_at":"2026-10-28T23:28:24Z","updated_at":"2026-10-28T23:28:25Z"},{"id":686687443,"node_id":"RA_kwDOGxaghM4o7gTT","name":"libmirrord_layer_linux_x86_64.so","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":11264472,"digest":"sha256:a2e8680a43118521d1a7f538ab9cf79cad386f5e0ac2ed968a19f2b7762e0535","download_count":2,"created_at":"2026-10-28T23:28:24Z","updated_at":"2026-10-28T23:28:25Z"},{"id":686687441,"node_id":"RA_kwDOGxaghM4o7gTR","name":"libmirrord_layer_mac_universal.dylib","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":44681728,"digest":"sha256:b885524cbb0bb8ceb24edcbccc20708f0d63a10fe3e13e7f1c0918141d50feb5","download_count":3,"created_at":"2026-10-28T23:28:24Z","updated_at":"2026-10-28T23:28:26Z"},{"id":686687439,"node_id":"RA_kwDOGxaghM4o7gTP","name":"mirrord.exe","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":116419872,"digest":"sha256:0bb2cf990931cd03af5f3bb177327a1505a20a2b8fd30a3fd420c9c002ac1cd7","download_count":14,"created_at":"2026-10-28T23:28:24Z","updated_at":"2026-10-28T23:28:28Z"},{"id":686687435,"node_id":"RA_kwDOGxaghM4o7gTL","name":"mirrord.exe.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":64,"digest":"sha256:6e7c8f761eec7eab93744d31f8063d065e75baac6825173bd668013805a97441","download_count":14,"created_at":"2026-10-28T23:28:24Z","updated_at":"2026-10-28T23:28:24Z"},{"id":686687453,"node_id":"RA_kwDOGxaghM4o7gTd","name":"mirrord.msi","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":33652736,"digest":"sha256:563c63430df2ffe52eb6d4050de18605b46a5db8ff883ad29f3029677952e73e","download_count":31,"created_at":"2026-10-28T23:28:24Z","updated_at":"2026-10-28T23:28:26Z"},{"id":686687431,"node_id":"RA_kwDOGxaghM4o7gTH","name":"mirrord.msi.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":64,"digest":"sha256:2aa20faf9c192b4a0168b94348faf6a5c7fa9d99a3493dd07dbbfa19a1b6be85","download_count":2,"created_at":"2026-10-28T23:28:24Z","updated_at":"2026-10-28T23:28:24Z"},{"id":686687446,"node_id":"RA_kwDOGxaghM4o7gTW","name":"mirrord_layer_win.dll","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":9219360,"digest":"sha256:827dc0cd9afd49e4ded4c42ba4dae93138e6cc4ba6d8963239006462248fa44f","download_count":3,"created_at":"2026-10-28T23:28:24Z","updated_at":"2026-10-28T23:28:25Z"},{"id":686687434,"node_id":"RA_kwDOGxaghM4o7gTK","name":"mirrord_layer_win.dll.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":64,"digest":"sha256:8c682b2e65621147e7142909e4759d1b44964ef2c77d846143820b6ee73ace2d","download_count":2,"created_at":"2026-10-28T23:28:24Z","updated_at":"2026-10-28T23:28:24Z"},{"id":686687445,"node_id":"RA_kwDOGxaghM4o7gTV","name":"mirrord_linux_aarch64","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":101479208,"digest":"sha256:900cd93508da789223728f63c46d5e1cc558f873044dcbac8eec4c2a1f2197d0","download_count":8,"created_at":"2026-10-28T23:28:24Z","updated_at":"2026-10-28T23:28:29Z"},{"id":686687436,"node_id":"RA_kwDOGxaghM4o7gTM","name":"mirrord_linux_aarch64.shasum256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":92,"digest":"sha256:b8ab8b9b71b374e687c60f3009011440407cb989c2bc14b66c4ab30c95940517","download_count":2,"created_at":"2026-10-28T23:28:24Z","updated_at":"2026-10-28T23:28:24Z"},{"id":686687449,"node_id":"RA_kwDOGxaghM4o7gTZ","name":"mirrord_linux_aarch64.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":37257633,"digest":"sha256:303c4a915540357b8e836860f25455d8b93405b881d6f894db448484f84d77d6","download_count":4,"created_at":"2026-10-28T23:28:24Z","updated_at":"2026-10-28T23:28:26Z"},{"id":686687450,"node_id":"RA_kwDOGxaghM4o7gTa","name":"mirrord_linux_x86_64","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":106792688,"digest":"sha256:8a5a4e6aeda27db2aaac0be8af9b40fd9cf6496debf28fe92e61a52735a9c69d","download_count":93,"created_at":"2026-10-28T23:28:24Z","updated_at":"2026-10-28T23:28:31Z"},{"id":686687437,"node_id":"RA_kwDOGxaghM4o7gTN","name":"mirrord_linux_x86_64.shasum256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":91,"digest":"sha256:f4df64cf23312cbb4bd178326d6d7686eea90f96e23ef696b38cfcf1542c854e","download_count":7,"created_at":"2026-10-28T23:28:24Z","updated_at":"2026-10-28T23:28:24Z"},{"id":686687444,"node_id":"RA_kwDOGxaghM4o7gTU","name":"mirrord_linux_x86_64.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":38858803,"digest":"sha256:c466a6c4a9bc594091c332da0516084bd71d45bdc5a861b7464126d29871f3b4","download_count":51,"created_at":"2026-10-28T23:28:24Z","updated_at":"2026-10-28T23:28:27Z"},{"id":686687448,"node_id":"RA_kwDOGxaghM4o7gTY","name":"mirrord_mac_universal","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":397563776,"digest":"sha256:15925dde7f56d3954f024c4abb3a728401052e13687fb922bde0d323269c8b85","download_count":59,"created_at":"2026-10-28T23:28:24Z","updated_at":"2026-10-28T23:28:39Z"},{"id":686687433,"node_id":"RA_kwDOGxaghM4o7gTJ","name":"mirrord_mac_universal.shasum256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":92,"digest":"sha256:734cfd64d1fe42ae27ec403e4c1de2cc072e6b12e3a80ba65a9c4ee830a71f73","download_count":8,"created_at":"2026-10-28T23:28:24Z","updated_at":"2026-10-28T23:28:24Z"},{"id":686687440,"node_id":"RA_kwDOGxaghM4o7gTQ","name":"mirrord_mac_universal.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":155720595,"digest":"sha256:a31456c6ec39077d0064470ba7a5ad3774352367600462bbe7e197bfcabb7695","download_count":89,"created_at":"2026-10-28T23:28:24Z","updated_at":"2026-10-28T23:28:30Z"}],"body":"\n\n### Added\n\n- Paid-feature errors identify the configuration key and required plan, with\n  billing guidance for cluster administrators.\n  Local paid-feature refusals are reported to operators that support\n  license-gate reporting.\n\n\n### Changed\n\n- Added sanitization to the `JDK_JAVA_OPTIONS` environment variable by removing\n  `javaagent` options.\n  This fixes some cases of injected variables pointing to non-existent files\n  and causing errors.\n  Malformed values (those with unmatched quotes) are left unchanged.\n  Set `feature.magic.java_agents` to `false` to keep the remote value\n  unchanged.\n\n\n### Fixed\n\n- Added `agent.http2_max_header_list_size` to configure the agent's HTTP/2\n  header size limit.\n- Fix the permissions of the local placeholder file created for remote files\n  when `experimental.use_dev_null` is `false`.\n- `mirrord up` no longer stops showing a service's output, and reports the\n  service as crashed, when the service prints text that isn't UTF-8, such as a\n  Windows console code page's `£`.\n- `mirrord up` now returns a helpful error when trying to use a label selector\n  target.\n\n"}
+{"id":427301295,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOGxaghM4ZeBmv","tag_name":"3.281.0","target_commitish":"2d4d00bfde3836e0b8b1adee8025762cdd13aaf6","name":"3.281.0","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-10-28T21:22:24Z","updated_at":"2026-10-28T23:28:39Z","published_at":"2026-10-28T23:28:24Z","assets":[{"id":686687447,"node_id":"RA_kwDOGxaghM4o7gTX","name":"libmirrord_layer_linux_aarch64.so","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":16689768,"digest":"sha256:ab594c594864d279b2bc3a8b88c5b91fe41d5edd08308b4fd6e4ad0f01b43d8f","download_count":3,"created_at":"2026-10-28T23:28:24Z","updated_at":"2026-10-28T23:28:25Z"},{"id":686687443,"node_id":"RA_kwDOGxaghM4o7gTT","name":"libmirrord_layer_linux_x86_64.so","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":11264472,"digest":"sha256:a2e8680a43118521d1a7f538ab9cf79cad386f5e0ac2ed968a19f2b7762e0535","download_count":4,"created_at":"2026-10-28T23:28:24Z","updated_at":"2026-10-28T23:28:25Z"},{"id":686687441,"node_id":"RA_kwDOGxaghM4o7gTR","name":"libmirrord_layer_mac_universal.dylib","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":44681728,"digest":"sha256:b885524cbb0bb8ceb24edcbccc20708f0d63a10fe3e13e7f1c0918141d50feb5","download_count":4,"created_at":"2026-10-28T23:28:24Z","updated_at":"2026-10-28T23:28:26Z"},{"id":686687439,"node_id":"RA_kwDOGxaghM4o7gTP","name":"mirrord.exe","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":116419872,"digest":"sha256:0bb2cf990931cd03af5f3bb177327a1505a20a2b8fd30a3fd420c9c002ac1cd7","download_count":88,"created_at":"2026-10-28T23:28:24Z","updated_at":"2026-10-28T23:28:28Z"},{"id":686687435,"node_id":"RA_kwDOGxaghM4o7gTL","name":"mirrord.exe.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":64,"digest":"sha256:6e7c8f761eec7eab93744d31f8063d065e75baac6825173bd668013805a97441","download_count":19,"created_at":"2026-10-28T23:28:24Z","updated_at":"2026-10-28T23:28:24Z"},{"id":686687453,"node_id":"RA_kwDOGxaghM4o7gTd","name":"mirrord.msi","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":33652736,"digest":"sha256:563c63430df2ffe52eb6d4050de18605b46a5db8ff883ad29f3029677952e73e","download_count":51,"created_at":"2026-10-28T23:28:24Z","updated_at":"2026-10-28T23:28:26Z"},{"id":686687431,"node_id":"RA_kwDOGxaghM4o7gTH","name":"mirrord.msi.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":64,"digest":"sha256:2aa20faf9c192b4a0168b94348faf6a5c7fa9d99a3493dd07dbbfa19a1b6be85","download_count":4,"created_at":"2026-10-28T23:28:24Z","updated_at":"2026-10-28T23:28:24Z"},{"id":686687446,"node_id":"RA_kwDOGxaghM4o7gTW","name":"mirrord_layer_win.dll","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":9219360,"digest":"sha256:827dc0cd9afd49e4ded4c42ba4dae93138e6cc4ba6d8963239006462248fa44f","download_count":4,"created_at":"2026-10-28T23:28:24Z","updated_at":"2026-10-28T23:28:25Z"},{"id":686687434,"node_id":"RA_kwDOGxaghM4o7gTK","name":"mirrord_layer_win.dll.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":64,"digest":"sha256:8c682b2e65621147e7142909e4759d1b44964ef2c77d846143820b6ee73ace2d","download_count":4,"created_at":"2026-10-28T23:28:24Z","updated_at":"2026-10-28T23:28:24Z"},{"id":686687445,"node_id":"RA_kwDOGxaghM4o7gTV","name":"mirrord_linux_aarch64","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":101479208,"digest":"sha256:900cd93508da789223728f63c46d5e1cc558f873044dcbac8eec4c2a1f2197d0","download_count":119,"created_at":"2026-10-28T23:28:24Z","updated_at":"2026-10-28T23:28:29Z"},{"id":686687436,"node_id":"RA_kwDOGxaghM4o7gTM","name":"mirrord_linux_aarch64.shasum256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":92,"digest":"sha256:b8ab8b9b71b374e687c60f3009011440407cb989c2bc14b66c4ab30c95940517","download_count":4,"created_at":"2026-10-28T23:28:24Z","updated_at":"2026-10-28T23:28:24Z"},{"id":686687449,"node_id":"RA_kwDOGxaghM4o7gTZ","name":"mirrord_linux_aarch64.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":37257633,"digest":"sha256:303c4a915540357b8e836860f25455d8b93405b881d6f894db448484f84d77d6","download_count":4,"created_at":"2026-10-28T23:28:24Z","updated_at":"2026-10-28T23:28:26Z"},{"id":686687450,"node_id":"RA_kwDOGxaghM4o7gTa","name":"mirrord_linux_x86_64","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":106792688,"digest":"sha256:8a5a4e6aeda27db2aaac0be8af9b40fd9cf6496debf28fe92e61a52735a9c69d","download_count":756,"created_at":"2026-10-28T23:28:24Z","updated_at":"2026-10-28T23:28:31Z"},{"id":686687437,"node_id":"RA_kwDOGxaghM4o7gTN","name":"mirrord_linux_x86_64.shasum256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":91,"digest":"sha256:f4df64cf23312cbb4bd178326d6d7686eea90f96e23ef696b38cfcf1542c854e","download_count":28,"created_at":"2026-10-28T23:28:24Z","updated_at":"2026-10-28T23:28:24Z"},{"id":686687444,"node_id":"RA_kwDOGxaghM4o7gTU","name":"mirrord_linux_x86_64.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":38858803,"digest":"sha256:c466a6c4a9bc594091c332da0516084bd71d45bdc5a861b7464126d29871f3b4","download_count":268,"created_at":"2026-10-28T23:28:24Z","updated_at":"2026-10-28T23:28:27Z"},{"id":686687448,"node_id":"RA_kwDOGxaghM4o7gTY","name":"mirrord_mac_universal","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":397563776,"digest":"sha256:15925dde7f56d3954f024c4abb3a728401052e13687fb922bde0d323269c8b85","download_count":1035,"created_at":"2026-10-28T23:28:24Z","updated_at":"2026-10-28T23:28:39Z"},{"id":686687433,"node_id":"RA_kwDOGxaghM4o7gTJ","name":"mirrord_mac_universal.shasum256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":92,"digest":"sha256:734cfd64d1fe42ae27ec403e4c1de2cc072e6b12e3a80ba65a9c4ee830a71f73","download_count":24,"created_at":"2026-10-28T23:28:24Z","updated_at":"2026-10-28T23:28:24Z"},{"id":686687440,"node_id":"RA_kwDOGxaghM4o7gTQ","name":"mirrord_mac_universal.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":155720595,"digest":"sha256:a31456c6ec39077d0064470ba7a5ad3774352367600462bbe7e197bfcabb7695","download_count":530,"created_at":"2026-10-28T23:28:24Z","updated_at":"2026-10-28T23:28:30Z"}],"body":"\n\n### Added\n\n- Paid-feature errors identify the configuration key and required plan, with\n  billing guidance for cluster administrators.\n  Local paid-feature refusals are reported to operators that support\n  license-gate reporting.\n\n\n### Changed\n\n- Added sanitization to the `JDK_JAVA_OPTIONS` environment variable by removing\n  `javaagent` options.\n  This fixes some cases of injected variables pointing to non-existent files\n  and causing errors.\n  Malformed values (those with unmatched quotes) are left unchanged.\n  Set `feature.magic.java_agents` to `false` to keep the remote value\n  unchanged.\n\n\n### Fixed\n\n- Added `agent.http2_max_header_list_size` to configure the agent's HTTP/2\n  header size limit.\n- Fix the permissions of the local placeholder file created for remote files\n  when `experimental.use_dev_null` is `false`.\n- `mirrord up` no longer stops showing a service's output, and reports the\n  service as crashed, when the service prints text that isn't UTF-8, such as a\n  Windows console code page's `£`.\n- `mirrord up` now returns a helpful error when trying to use a label selector\n  target.\n\n"}
