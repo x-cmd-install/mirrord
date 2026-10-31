@@ -1,3 +1,12 @@
+- repo: wakemeops
+  subrepo: devops
+  binname: mirrord
+  visiblename: mirrord
+  version: 3.269.0
+  origversion: 3.269.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
 - repo: aur
   srcname: mirrord
   binname: mirrord
@@ -77,9 +86,18 @@
   subrepo: devops
   binname: mirrord
   visiblename: mirrord
+  version: 3.282.0
+  origversion: 3.282.0-1~ops2deb
+  status: newest
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: mirrord
+  visiblename: mirrord
   version: 3.281.0
   origversion: 3.281.0-1~ops2deb
-  status: newest
+  status: legacy
   maintainers:
     - ops2deb@upciti.com
 - repo: wakemeops
@@ -187,15 +205,6 @@
   visiblename: mirrord
   version: 3.270.0
   origversion: 3.270.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: mirrord
-  visiblename: mirrord
-  version: 3.269.0
-  origversion: 3.269.0-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
@@ -511,15 +520,6 @@
   visiblename: mirrord
   version: 3.234.0
   origversion: 3.234.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: mirrord
-  visiblename: mirrord
-  version: 3.233.0
-  origversion: 3.233.0-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
