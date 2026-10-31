@@ -14,13 +14,13 @@ x install mirrord
 
 ## 代码洞察
 
-合计: **239,225** 行代码（覆盖前 5 种语言、共 **1038** 个文件）。
+合计: **239,562** 行代码（覆盖前 5 种语言、共 **1039** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 199,407 | 5,719 | 26,799 | 888 |
+| Rust | 199,717 | 5,721 | 26,836 | 889 |
 | Tsx | 9,766 | 244 | 935 | 69 |
-| Json | 7,801 | 0 | 1 | 31 |
+| Json | 7,828 | 0 | 1 | 31 |
 | Yaml | 6,457 | 1,264 | 1,501 | 17 |
 | TypeScript | 4,093 | 1,410 | 361 | 33 |
 
@@ -32,51 +32,51 @@ x install mirrord
 
 ## 发布
 
-- **最新版本**: `3.281.0` (2026-10-28)
-- **最近提交**: 2026-10-29
+- **最新版本**: `3.282.0` (2026-10-30)
+- **最近提交**: 2026-10-31
 - **Release 含资产**: 18 个
 
 ## 流行度
 
-- **Star**: 5,393 · **Fork**: 223 · **开放 issue**: 1,227 · **贡献者**: 70
+- **Star**: 5,395 · **Fork**: 223 · **开放 issue**: 1,227 · **贡献者**: 70
 
 ## 累计统计
 
-- **发布数**: 471 · **已合并 PR**: 2923 · **开放 PR**: 22 · **已关闭 issue**: 1226 · **开放 issue**: 1 · **提交数**: 4646
+- **发布数**: 472 · **已合并 PR**: 2927 · **开放 PR**: 22 · **已关闭 issue**: 1226 · **开放 issue**: 1 · **提交数**: 4659
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 16 | 140 | 22 | 2 | 0 | 519 |
-| last60d | 2026-08-31 | 33 | 262 | 22 | 4 | 0 | 861 |
-| 90d | 2026-08-01 | 41 | 375 | 22 | 8 | 0 | 1098 |
-| last180d | 2026-05-03 | 79 | 682 | 22 | 13 | 0 | 1439 |
-| 360d | 2025-11-04 | 100 | 1095 | 22 | 47 | 0 | 1824 |
-| last720d | 2024-11-09 | 100 | 1607 | 22 | 252 | 0 | 2972 |
+| 30d | 2026-10-01 | 16 | 138 | 22 | 2 | 0 | 524 |
+| last60d | 2026-09-01 | 32 | 258 | 22 | 4 | 0 | 866 |
+| 90d | 2026-08-02 | 42 | 375 | 22 | 8 | 0 | 1103 |
+| last180d | 2026-05-04 | 80 | 685 | 22 | 13 | 0 | 1444 |
+| 360d | 2025-11-05 | 100 | 1098 | 22 | 47 | 0 | 1829 |
+| last720d | 2024-11-10 | 100 | 1611 | 22 | 252 | 0 | 2985 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [libmirrord_layer_linux_aarch64.so](https://github.com/metalbear-co/mirrord/releases/download/3.281.0/libmirrord_layer_linux_aarch64.so) | 15.9 MiB | `native/linux/arm64` |
-| [libmirrord_layer_linux_x86_64.so](https://github.com/metalbear-co/mirrord/releases/download/3.281.0/libmirrord_layer_linux_x86_64.so) | 10.7 MiB | `native/linux/x64` |
-| [libmirrord_layer_mac_universal.dylib](https://github.com/metalbear-co/mirrord/releases/download/3.281.0/libmirrord_layer_mac_universal.dylib) | 42.6 MiB | `other` |
-| [mirrord.exe](https://github.com/metalbear-co/mirrord/releases/download/3.281.0/mirrord.exe) | 111.0 MiB | `other` |
-| [mirrord.exe.sha256](https://github.com/metalbear-co/mirrord/releases/download/3.281.0/mirrord.exe.sha256) | 64 B | `other` |
-| [mirrord.msi](https://github.com/metalbear-co/mirrord/releases/download/3.281.0/mirrord.msi) | 32.1 MiB | `other` |
-| [mirrord.msi.sha256](https://github.com/metalbear-co/mirrord/releases/download/3.281.0/mirrord.msi.sha256) | 64 B | `other` |
-| [mirrord_layer_win.dll](https://github.com/metalbear-co/mirrord/releases/download/3.281.0/mirrord_layer_win.dll) | 8.8 MiB | `other` |
-| [mirrord_layer_win.dll.sha256](https://github.com/metalbear-co/mirrord/releases/download/3.281.0/mirrord_layer_win.dll.sha256) | 64 B | `other` |
-| [mirrord_linux_aarch64](https://github.com/metalbear-co/mirrord/releases/download/3.281.0/mirrord_linux_aarch64) | 96.8 MiB | `native/linux/arm64` |
-| [mirrord_linux_aarch64.shasum256](https://github.com/metalbear-co/mirrord/releases/download/3.281.0/mirrord_linux_aarch64.shasum256) | 92 B | `native/linux/arm64` |
-| [mirrord_linux_aarch64.zip](https://github.com/metalbear-co/mirrord/releases/download/3.281.0/mirrord_linux_aarch64.zip) | 35.5 MiB | `native/linux/arm64` |
-| [mirrord_linux_x86_64](https://github.com/metalbear-co/mirrord/releases/download/3.281.0/mirrord_linux_x86_64) | 101.8 MiB | `native/linux/x64` |
-| [mirrord_linux_x86_64.shasum256](https://github.com/metalbear-co/mirrord/releases/download/3.281.0/mirrord_linux_x86_64.shasum256) | 91 B | `native/linux/x64` |
-| [mirrord_linux_x86_64.zip](https://github.com/metalbear-co/mirrord/releases/download/3.281.0/mirrord_linux_x86_64.zip) | 37.1 MiB | `native/linux/x64` |
-| [mirrord_mac_universal](https://github.com/metalbear-co/mirrord/releases/download/3.281.0/mirrord_mac_universal) | 379.1 MiB | `other` |
-| [mirrord_mac_universal.shasum256](https://github.com/metalbear-co/mirrord/releases/download/3.281.0/mirrord_mac_universal.shasum256) | 92 B | `other` |
-| [mirrord_mac_universal.zip](https://github.com/metalbear-co/mirrord/releases/download/3.281.0/mirrord_mac_universal.zip) | 148.5 MiB | `other` |
+| [libmirrord_layer_linux_aarch64.so](https://github.com/metalbear-co/mirrord/releases/download/3.282.0/libmirrord_layer_linux_aarch64.so) | 16.0 MiB | `native/linux/arm64` |
+| [libmirrord_layer_linux_x86_64.so](https://github.com/metalbear-co/mirrord/releases/download/3.282.0/libmirrord_layer_linux_x86_64.so) | 10.8 MiB | `native/linux/x64` |
+| [libmirrord_layer_mac_universal.dylib](https://github.com/metalbear-co/mirrord/releases/download/3.282.0/libmirrord_layer_mac_universal.dylib) | 42.7 MiB | `other` |
+| [mirrord.exe](https://github.com/metalbear-co/mirrord/releases/download/3.282.0/mirrord.exe) | 111.4 MiB | `other` |
+| [mirrord.exe.sha256](https://github.com/metalbear-co/mirrord/releases/download/3.282.0/mirrord.exe.sha256) | 64 B | `other` |
+| [mirrord.msi](https://github.com/metalbear-co/mirrord/releases/download/3.282.0/mirrord.msi) | 32.2 MiB | `other` |
+| [mirrord.msi.sha256](https://github.com/metalbear-co/mirrord/releases/download/3.282.0/mirrord.msi.sha256) | 64 B | `other` |
+| [mirrord_layer_win.dll](https://github.com/metalbear-co/mirrord/releases/download/3.282.0/mirrord_layer_win.dll) | 8.8 MiB | `other` |
+| [mirrord_layer_win.dll.sha256](https://github.com/metalbear-co/mirrord/releases/download/3.282.0/mirrord_layer_win.dll.sha256) | 64 B | `other` |
+| [mirrord_linux_aarch64](https://github.com/metalbear-co/mirrord/releases/download/3.282.0/mirrord_linux_aarch64) | 97.1 MiB | `native/linux/arm64` |
+| [mirrord_linux_aarch64.shasum256](https://github.com/metalbear-co/mirrord/releases/download/3.282.0/mirrord_linux_aarch64.shasum256) | 92 B | `native/linux/arm64` |
+| [mirrord_linux_aarch64.zip](https://github.com/metalbear-co/mirrord/releases/download/3.282.0/mirrord_linux_aarch64.zip) | 35.6 MiB | `native/linux/arm64` |
+| [mirrord_linux_x86_64](https://github.com/metalbear-co/mirrord/releases/download/3.282.0/mirrord_linux_x86_64) | 102.1 MiB | `native/linux/x64` |
+| [mirrord_linux_x86_64.shasum256](https://github.com/metalbear-co/mirrord/releases/download/3.282.0/mirrord_linux_x86_64.shasum256) | 91 B | `native/linux/x64` |
+| [mirrord_linux_x86_64.zip](https://github.com/metalbear-co/mirrord/releases/download/3.282.0/mirrord_linux_x86_64.zip) | 37.2 MiB | `native/linux/x64` |
+| [mirrord_mac_universal](https://github.com/metalbear-co/mirrord/releases/download/3.282.0/mirrord_mac_universal) | 379.9 MiB | `other` |
+| [mirrord_mac_universal.shasum256](https://github.com/metalbear-co/mirrord/releases/download/3.282.0/mirrord_mac_universal.shasum256) | 92 B | `other` |
+| [mirrord_mac_universal.zip](https://github.com/metalbear-co/mirrord/releases/download/3.282.0/mirrord_mac_universal.zip) | 148.7 MiB | `other` |
 
 ## 发行版状态
 
@@ -95,4 +95,4 @@ mirrord 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261030.yml` · 2026-10-30T05:22:15Z._
+_数据快照: `data/card/261031.yml` · 2026-10-31T05:04:09Z._
