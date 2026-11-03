@@ -1,3 +1,21 @@
+- repo: wakemeops
+  subrepo: devops
+  binname: mirrord
+  visiblename: mirrord
+  version: 3.275.0
+  origversion: 3.275.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: mirrord
+  visiblename: mirrord
+  version: 3.274.0
+  origversion: 3.274.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
 - repo: aur
   srcname: mirrord
   binname: mirrord
@@ -27,7 +45,7 @@
   visiblename: mirrord (Kubernetes dev tool)
   version: 3.283.0
   origversion: null
-  status: newest
+  status: outdated
   summary: Run local code in the context of your Kubernetes environment.
 - repo: nix_stable_25_05
   srcname: mirrord
@@ -77,9 +95,18 @@
   subrepo: devops
   binname: mirrord
   visiblename: mirrord
+  version: 3.284.0
+  origversion: 3.284.0-1~ops2deb
+  status: newest
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: mirrord
+  visiblename: mirrord
   version: 3.283.0
   origversion: 3.283.0-1~ops2deb
-  status: newest
+  status: legacy
   maintainers:
     - ops2deb@upciti.com
 - repo: wakemeops
@@ -151,24 +178,6 @@
   visiblename: mirrord
   version: 3.276.0
   origversion: 3.276.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: mirrord
-  visiblename: mirrord
-  version: 3.275.0
-  origversion: 3.275.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: mirrord
-  visiblename: mirrord
-  version: 3.274.0
-  origversion: 3.274.0-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
@@ -511,15 +520,6 @@
   visiblename: mirrord
   version: 3.236.0
   origversion: 3.236.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: mirrord
-  visiblename: mirrord
-  version: 3.235.0
-  origversion: 3.235.0-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
