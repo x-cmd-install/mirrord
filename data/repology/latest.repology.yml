@@ -2,17 +2,17 @@
   subrepo: devops
   binname: mirrord
   visiblename: mirrord
-  version: 3.275.0
-  origversion: 3.275.0-1~ops2deb
-  status: legacy
+  version: 3.285.0
+  origversion: 3.285.0-1~ops2deb
+  status: newest
   maintainers:
     - ops2deb@upciti.com
 - repo: wakemeops
   subrepo: devops
   binname: mirrord
   visiblename: mirrord
-  version: 3.274.0
-  origversion: 3.274.0-1~ops2deb
+  version: 3.284.0
+  origversion: 3.284.0-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
@@ -83,7 +83,7 @@
 - repo: nix_unstable
   srcname: mirrord
   visiblename: mirrord
-  version: 3.277.0
+  version: 3.284.0
   origversion: null
   status: outdated
   summary: Run local processes in the context of Kubernetes environment
@@ -91,15 +91,6 @@
     - wentworth@outlook.com
   licenses:
     - MIT
-- repo: wakemeops
-  subrepo: devops
-  binname: mirrord
-  visiblename: mirrord
-  version: 3.284.0
-  origversion: 3.284.0-1~ops2deb
-  status: newest
-  maintainers:
-    - ops2deb@upciti.com
 - repo: wakemeops
   subrepo: devops
   binname: mirrord
@@ -178,6 +169,24 @@
   visiblename: mirrord
   version: 3.276.0
   origversion: 3.276.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: mirrord
+  visiblename: mirrord
+  version: 3.275.0
+  origversion: 3.275.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: mirrord
+  visiblename: mirrord
+  version: 3.274.0
+  origversion: 3.274.0-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
@@ -511,15 +520,6 @@
   visiblename: mirrord
   version: 3.236.1
   origversion: 3.236.1-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: mirrord
-  visiblename: mirrord
-  version: 3.236.0
-  origversion: 3.236.0-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
