@@ -1,3 +1,30 @@
+- repo: wakemeops
+  subrepo: devops
+  binname: mirrord
+  visiblename: mirrord
+  version: 3.271.0
+  origversion: 3.271.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: mirrord
+  visiblename: mirrord
+  version: 3.243.0
+  origversion: 3.243.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: mirrord
+  visiblename: mirrord
+  version: 3.284.0
+  origversion: 3.284.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
 - repo: aur
   srcname: mirrord
   binname: mirrord
@@ -77,9 +104,18 @@
   subrepo: devops
   binname: mirrord
   visiblename: mirrord
+  version: 3.287.0
+  origversion: 3.287.0-1~ops2deb
+  status: newest
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: mirrord
+  visiblename: mirrord
   version: 3.286.0
   origversion: 3.286.0-1~ops2deb
-  status: newest
+  status: legacy
   maintainers:
     - ops2deb@upciti.com
 - repo: wakemeops
@@ -88,15 +124,6 @@
   visiblename: mirrord
   version: 3.285.0
   origversion: 3.285.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: mirrord
-  visiblename: mirrord
-  version: 3.284.0
-  origversion: 3.284.0-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
@@ -214,15 +241,6 @@
   visiblename: mirrord
   version: 3.272.0
   origversion: 3.272.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: mirrord
-  visiblename: mirrord
-  version: 3.271.0
-  origversion: 3.271.0-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
@@ -473,15 +491,6 @@
   subrepo: devops
   binname: mirrord
   visiblename: mirrord
-  version: 3.243.0
-  origversion: 3.243.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: mirrord
-  visiblename: mirrord
   version: 3.242.0
   origversion: 3.242.0-1~ops2deb
   status: legacy
@@ -511,15 +520,6 @@
   visiblename: mirrord
   version: 3.238.0
   origversion: 3.238.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: mirrord
-  visiblename: mirrord
-  version: 3.237.0
-  origversion: 3.237.0-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
