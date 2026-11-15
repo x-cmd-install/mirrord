@@ -38,7 +38,7 @@ Total: **247,926** lines of code across **1049** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 5,411 · **Forks**: 228 · **Open issues**: 1,227 · **Contributors**: 71
+- **Stars**: 5,412 · **Forks**: 228 · **Open issues**: 1,227 · **Contributors**: 71
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **247,926** lines of code across **1049** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 14 | 114 | 18 | 1 | 0 | 369 |
-| last60d | 2026-09-15 | 31 | 265 | 18 | 3 | 0 | 913 |
-| 90d | 2026-08-16 | 43 | 378 | 18 | 6 | 0 | 1156 |
-| last180d | 2026-05-18 | 83 | 719 | 18 | 12 | 0 | 1577 |
-| 360d | 2025-11-19 | 100 | 1128 | 18 | 44 | 0 | 1963 |
-| last720d | 2024-11-24 | 100 | 1655 | 18 | 245 | 0 | 3160 |
+| 30d | 2026-10-16 | 14 | 110 | 18 | 0 | 0 | 369 |
+| last60d | 2026-09-16 | 30 | 259 | 18 | 3 | 0 | 913 |
+| 90d | 2026-08-17 | 42 | 371 | 18 | 6 | 0 | 1156 |
+| last180d | 2026-05-19 | 83 | 713 | 18 | 12 | 0 | 1577 |
+| 360d | 2025-11-20 | 100 | 1127 | 18 | 44 | 0 | 1963 |
+| last720d | 2024-11-25 | 100 | 1653 | 18 | 245 | 0 | 3160 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for mirrord lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T05:54:07Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T05:55:42Z._
