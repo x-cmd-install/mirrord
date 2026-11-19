@@ -1,14 +1,12 @@
-- repo: nix_stable_25_11
-  srcname: mirrord
+- repo: wakemeops
+  subrepo: devops
+  binname: mirrord
   visiblename: mirrord
-  version: 3.173.2
-  origversion: null
-  status: outdated
-  summary: Run local processes in the context of Kubernetes environment
+  version: 3.279.1
+  origversion: 3.279.1-1~ops2deb
+  status: legacy
   maintainers:
-    - wentworth@outlook.com
-  licenses:
-    - MIT
+    - ops2deb@upciti.com
 - repo: aur
   srcname: mirrord
   binname: mirrord
@@ -51,6 +49,17 @@
     - wentworth@outlook.com
   licenses:
     - MIT
+- repo: nix_stable_25_11
+  srcname: mirrord
+  visiblename: mirrord
+  version: 3.173.2
+  origversion: null
+  status: outdated
+  summary: Run local processes in the context of Kubernetes environment
+  maintainers:
+    - wentworth@outlook.com
+  licenses:
+    - MIT
 - repo: nix_stable_26_05
   srcname: mirrord
   visiblename: mirrord
@@ -65,7 +74,7 @@
 - repo: nix_unstable
   srcname: mirrord
   visiblename: mirrord
-  version: 3.284.0
+  version: 3.287.0
   origversion: null
   status: outdated
   summary: Run local processes in the context of Kubernetes environment
@@ -151,15 +160,6 @@
   visiblename: mirrord
   version: 3.280.0
   origversion: 3.280.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: mirrord
-  visiblename: mirrord
-  version: 3.279.1
-  origversion: 3.279.1-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
