@@ -33,27 +33,27 @@ Total: **259,475** lines of code across **1054** files in the top 5 languages.
 ## Release
 
 - **Latest**: `3.290.0` (2026-11-17)
-- **Last commit**: 2026-11-19
+- **Last commit**: 2026-11-20
 - **Assets in release**: 18
 
 ## Popularity
 
-- **Stars**: 5,421 · **Forks**: 227 · **Open issues**: 1,228 · **Contributors**: 71
+- **Stars**: 5,424 · **Forks**: 227 · **Open issues**: 1,228 · **Contributors**: 71
 
 ## Totals (cumulative)
 
-- **Releases**: 480 · **Merged PRs**: 2992 · **Open PRs**: 24 · **Closed issues**: 1226 · **Open issues**: 2 · **Commits**: 4856
+- **Releases**: 480 · **Merged PRs**: 2995 · **Open PRs**: 23 · **Closed issues**: 1226 · **Open issues**: 2 · **Commits**: 4859
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 15 | 95 | 24 | 0 | 1 | 253 |
-| last60d | 2026-09-21 | 29 | 254 | 24 | 2 | 1 | 851 |
-| 90d | 2026-08-22 | 43 | 363 | 24 | 5 | 1 | 1124 |
-| last180d | 2026-05-24 | 84 | 715 | 24 | 12 | 1 | 1571 |
-| 360d | 2025-11-25 | 100 | 1126 | 24 | 42 | 1 | 1961 |
-| last720d | 2024-11-30 | 100 | 1653 | 24 | 238 | 1 | 3162 |
+| 30d | 2026-10-22 | 14 | 93 | 23 | 0 | 1 | 256 |
+| last60d | 2026-09-22 | 29 | 251 | 23 | 2 | 1 | 854 |
+| 90d | 2026-08-23 | 43 | 365 | 23 | 5 | 1 | 1127 |
+| last180d | 2026-05-25 | 84 | 717 | 23 | 12 | 1 | 1574 |
+| 360d | 2025-11-26 | 100 | 1128 | 23 | 42 | 1 | 1964 |
+| last720d | 2024-12-01 | 100 | 1656 | 23 | 237 | 1 | 3165 |
 
 ## Release assets
 
@@ -80,7 +80,7 @@ Total: **259,475** lines of code across **1054** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **57** distros on [repology.org](https://repology.org/project/mirrord). **2** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
+Reported by **57** distros on [repology.org](https://repology.org/project/mirrord). **1** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -95,4 +95,4 @@ Install metadata for mirrord lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T06:49:36Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T06:43:26Z._
