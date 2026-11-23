@@ -1,25 +1,4 @@
 - repo: aur
-  srcname: mirrord-bin
-  binname: mirrord-bin
-  visiblename: mirrord-bin
-  version: 3.290.0
-  origversion: 3.290.0-1
-  status: newest
-  summary: Run your service in the context of your cloud environment.
-  maintainers:
-    - komex@aur
-  licenses:
-    - MIT
-- repo: wakemeops
-  subrepo: devops
-  binname: mirrord
-  visiblename: mirrord
-  version: 3.283.0
-  origversion: 3.283.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: aur
   srcname: mirrord
   binname: mirrord
   visiblename: mirrord
@@ -31,10 +10,22 @@
     - fallback-mnt-aur@repology
   licenses:
     - MIT
+- repo: aur
+  srcname: mirrord-bin
+  binname: mirrord-bin
+  visiblename: mirrord-bin
+  version: 3.290.0
+  origversion: 3.290.0-1
+  status: newest
+  summary: Run your service in the context of your cloud environment.
+  maintainers:
+    - komex@aur
+  licenses:
+    - MIT
 - repo: chocolatey
   binname: mirrord
   visiblename: mirrord (Kubernetes dev tool)
-  version: 3.288.0
+  version: 3.289.0
   origversion: null
   status: outdated
   summary: Run local code in the context of your Kubernetes environment.
@@ -124,6 +115,15 @@
   visiblename: mirrord
   version: 3.284.0
   origversion: 3.284.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: mirrord
+  visiblename: mirrord
+  version: 3.283.0
+  origversion: 3.283.0-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
